@@ -21,8 +21,10 @@ Fichier HTLM (avec dossier des visuels attachés au fichier HTML)
 
 | Source | Jeu de données | Lien |
 |---|---|---|
-| IDFM | [nom du jeu de données] | [lien] |
-| [autre source] | [nom] | [lien] |
+| IDFM | Offre hebdomadaire moyenne hors vacances | https://prim.iledefrance-mobilites.fr/fr/jeux-de-donnees/offre_hebdomadaire_moyenne_hors_vacances |
+| Région Île-de-France | Bassins d'emploi Île-de-France 2021 | https://data.iledefrance.fr/explore/dataset/bassins_emploi_ile_de_france/ |
+| IDFM | Tracés des lignes régulières commerciales de bus en Ile-de-France | Tracés des lignes régulières commerciales de bus en Ile-de-France — Open Data Île-de-France Mobilit… |
+| IGN | BD TOPO® | BD TOPO® | Rechercher une donnée | cartes.gouv.fr | 
 
 ## Les outils employés
 
