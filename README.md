@@ -1,7 +1,7 @@
 # defi_3_Ca_travaille_la_nuit
 
 
-# [Voyager la nuit, travailler la nuit]
+# Voyager la nuit, travailler la nuit
 
 **Équipe :** Gaëlle COURREGELONGUE ; Stephanie DE ANDRADE JELAMBI ; Judicael LEGER ; Clarisse PAILLET ; Gaetan PEYRONEL BERA ; Pierre ROLLAND
 **Mail(s) de contact:** judicael.leger@sncf.fr pierre.rolland@sncf.fr
