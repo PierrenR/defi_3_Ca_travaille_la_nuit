@@ -31,8 +31,6 @@ Python, Qgis, HTML
 ## Licence
 
 Ce projet est publié sous licence [MIT / CC-BY 4.0 / Licence Ouverte 2.0 — choisir selon le type de production].
-```
-
 
 
 Toutes les productions déposées sur ce dépôt doivent être publiées sous licences libres :
@@ -43,4 +41,4 @@ Toutes les productions déposées sur ce dépôt doivent être publiées sous li
 | Données | Licence Ouverte 2.0 (ou équivalente : CC-BY, ODbL) |
 | Contenus textuels et visuels | Creative Commons CC-BY 4.0 (ou plus permissive) |
 
----
+
