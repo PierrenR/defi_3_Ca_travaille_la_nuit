@@ -12,7 +12,7 @@ Quelles disparités territoriales pour l’accès à l’emploi ?
 
 ## Notre visualisation
 
-Fichier HTLM (avec dossier des visuels attachés au fichier HTML)
+Fichier HTLM (avec dossier des visuels attachés au fichier HTML et codes) dans dossier *production*
 
 ## Les données utilisées
 
