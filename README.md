@@ -1,6 +1,8 @@
 # Voyager la nuit, travailler la nuit
 
-**Équipe :** Gaëlle COURREGELONGUE ; Stephanie DE ANDRADE JELAMBI ; Judicael LEGER ; Clarisse PAILLET ; Gaetan PEYRONEL BERA ; Pierre ROLLAND
+**Équipe :** 
+Nom d'équipe : Ca travaille la nuit
+Membres de l'équipe : Gaëlle COURREGELONGUE ; Stephanie DE ANDRADE JELAMBI ; Judicael LEGER ; Clarisse PAILLET ; Gaetan PEYRONEL BERA ; Pierre ROLLAND
 
 **Mail(s) de contact:** judicael.leger@sncf.fr ; pierre.rolland@sncf.fr
 
